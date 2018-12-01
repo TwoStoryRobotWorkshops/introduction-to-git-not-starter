@@ -1,2 +1,2 @@
-# introduction-to-git-starter
+# Introduction to Git
 Starter files for introduction to git workshop
